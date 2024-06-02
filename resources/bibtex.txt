@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@article{franchi2023make,
+  title={Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models},
+  author={Franchi, Gianni and Laurent, Olivier and Legu{\'e}ry, Maxence and Bursuc, Andrei and Pilzer, Andrea and Yao, Angela},
+  journal={arXiv preprint arXiv:2312.15297},
+  year={2023}
 }
